@@ -4,7 +4,7 @@ This project applies machine learning techniques to predict passenger survival o
 
 ## 📊 Problem Statement
 
-**Research Question (Layman's Terms)**:  
+**Research Question**:  
 Can we predict which passengers survived the Titanic disaster using available information such as age, gender, ticket class, and family relations? Understanding these patterns provides insights into survival factors and enables the development of predictive models that can be applied to similar scenarios.
 
 ## 🔍 Dataset
